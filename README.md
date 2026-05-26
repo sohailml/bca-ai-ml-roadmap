@@ -11,7 +11,7 @@
 
 **Self-Study (Light & Consistent):**
 - Python Basics (Syntax, loops, functions, list/dict)
-- Git & GitHub – daily 1 push (habit ban)
+- Git & GitHub – daily 1 push
 - GitHub repo: `bca-ai-ml-journey`
 
 > ⚠️ Abhi DSA nahi, math nahi. Sirf Python comfort karna hai.
