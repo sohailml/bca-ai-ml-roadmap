@@ -109,7 +109,7 @@
 
 | Phase | Status |
 |-------|--------|
-| Sem 1 Python + Git | 🔜 Not started |
+| Sem 1 Python + Git | 🔜 started |
 | Sem 2 OOP + DSA | 🔜 |
 | Sem 3 ML Math + Pandas | 🔜 |
 | Sem 4 Scikit-learn | 🔜 |
