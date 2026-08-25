@@ -117,6 +117,5 @@
 | Sem 6 GenAI + MLOps | 🔜 |
 
 ---
-
-*Last updated: May 2026*  
+  
 `#BuildInPublic` 🚀
