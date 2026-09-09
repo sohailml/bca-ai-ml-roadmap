@@ -5,6 +5,15 @@
 
 ---
 
+## ⚡ Execution Speed Update (Sep 2026)
+
+This roadmap is a 3-year professional blueprint aligned with my BCA curriculum for structured visibility.
+However, I am not waiting for 3 years.
+My actual speed: 1 month = 1 semester worth of content.
+I will complete my self study in approx 1 year or earlier
+
+---
+
 ## ✅ Semester 1 (College: C, Fundamentals, Digital Systems)
 
 **College Focus:** C Programming, Digital Systems, Fundamentals of Computers
