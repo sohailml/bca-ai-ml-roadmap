@@ -114,7 +114,8 @@ This roadmap is a 3-year professional blueprint aligned with my BCA curriculum f
 
 ---
 
-Self study topics
+## 🖊️ Self study topics
+
 1. Python Basics (Syntax, loops, functions, list/dict)
 2. Git & GitHub – daily 1 push
 3. Python OOP (class, inheritance, magic methods)
