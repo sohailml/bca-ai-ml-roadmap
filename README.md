@@ -114,6 +114,32 @@ This roadmap is a 3-year professional blueprint aligned with my BCA curriculum f
 
 ---
 
+Self study topics
+1. Python Basics (Syntax, loops, functions, list/dict)
+2. Git & GitHub – daily 1 push
+3. Python OOP (class, inheritance, magic methods)
+4. DSA basics in Python (array, LL, stack, queue)
+5. NumPy + Matplotlib start
+6. Python Advanced (iterators, generators, decorators, error handling)
+7. DSA Intermediate (recursion, binary search, sorting, hash maps)
+8. Math for ML (linear algebra, calculus basics)
+9. Pandas + Seaborn start
+10. Complete Pandas + Seaborn
+11. Scikit-learn start
+12. ML Core (regression, classification, clustering)
+13. Model Evaluation + Hyperparameter Tuning
+14. Advanced DSA (graphs, DP – LeetCode easy/medium)
+15. PyTorch start
+16. Deep Learning (NN, CNN)
+17. RNN + LSTM basics
+18. Transformers + Hugging Face
+19. LoRA fine-tuning
+20. GenAI (Phi-3, Mistral, Llama-3)
+21. MLOps basics (FastAPI, Docker, Streamlit, HF Spaces)
+
+---
+
+
 ## 📈 Progress Tracker (Live)
 
 | Phase | Status |
